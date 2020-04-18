@@ -44,13 +44,16 @@ tag = "tags"
 series = "series"
 # author = "authors"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
   author = "Zhao Bo"
   description = "Assistant Professor at School of Finance, Nankai University"
   homepageImage = "/img/office.png"
-  share = true
+  share = false
   showLanguageSwitcher = true
-  toc = true
+  toc = false
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
   customCSS = []
   customJS = []
@@ -79,6 +82,9 @@ series = "series"
   [params.commento]
     enable = false
     url = "https://commento.io"
+  
+  [oarams.share]
+    enable = false
 
 [markup]
   [markup.highlight]
