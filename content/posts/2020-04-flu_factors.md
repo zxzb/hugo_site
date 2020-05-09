@@ -1,7 +1,7 @@
 ---
 title: 1918-1919 西班牙流感以及一战时期的美国股市
 date: "2020-04-07"
-categories: ["stock factors"]
+categories: ["Asset Pricing"]
 # series: ["som"]
 description: ""
 images: ["/images/flu-factors/flu-factors.png"]

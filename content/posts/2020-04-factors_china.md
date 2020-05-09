@@ -1,7 +1,7 @@
 ---
 title: 中国股市的size, value, momentum, reversal, liquidity, ivol因子
 date: "2020-03-18"
-categories: ["stock factors"]
+categories: ["stocks"]
 description: "size, value, momentum, reversal, liquidity, ivol in China"
 images: ["/images/china_factors/china_factors.png"]
 ---
